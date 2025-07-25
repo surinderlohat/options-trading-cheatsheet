@@ -11,8 +11,6 @@
 | **7️⃣ Entry & Stop Loss**                           | Once price confirms near SR with all above: <br>• Buy **ATM/ITM option** with next 5-10 min expiry (for same day) <br>• Put SL below the candle low (for Call) or above (for Put) <br>• Target: 1:1.5 RR minimum                                                     | 🔥 Use a fix capital like ₹2,000–₹5,000 per trade, not whole capital. Don’t chase.                                    |
 | **8️⃣ Avoid Entry after 2:30 PM (unless breakout)** | Time decay is high in options post 2:30 PM. Only enter if strong breakout or reversal with volume.                                                                                                                                                                   | 📅 Expiry day trades can be done till 3:10, but be quick!                                                             |
 
----
-
 ### 🧠 **Live Example (Scenario)**
 
 > 📍 Nifty 25,200 zone marked as support
@@ -21,3 +19,33 @@
 > ✅ 25,200 PE has highest OI
 > ✅ Hammer candle at 25,200 with high volume
 > 👉 **Buy 25,200 CE with SL just below 25,180 and 30–40 point target**
+
+
+# Just Paste this prompt in chat gpt to get your analysis  Update **SENSEX**  with NIFTY  | BANK NIFTY | OR ANY STOCK
+```
+📌 Analyze: **SENSEX**
+🎯 Intraday Option Buy Setup
+
+Use this checklist:
+
+✅ Technicals:
+- RSI (5-min, 15-min)
+- Candlestick near Support/Resistance
+- Volume on entry candle
+
+📊 Option Chain:
+- PCR (bullish >1, bearish <1)
+- Where’s highest Call/Put OI?
+- Any intraday OI shifts (build-up/unwinding)?
+
+🔍 S/R Zones:
+- Key support/resistance (PDH, PDL, pivots)
+- Price reaction near zones?
+
+🟢 Final Output:
+- ✅ Buy Call / Buy Put / Avoid?
+- 🎯 Strike (ATM/ITM/OTM)?
+- 📈 Entry reason
+- 🛑 SL & Target
+- ⚠️ Caution if needed
+```
