@@ -21,7 +21,3 @@
 > ✅ 25,200 PE has highest OI
 > ✅ Hammer candle at 25,200 with high volume
 > 👉 **Buy 25,200 CE with SL just below 25,180 and 30–40 point target**
-
----
-
-Would you like me to generate this as a **Notion template**, **PDF cheatsheet**, or **Excel file** for daily use?
