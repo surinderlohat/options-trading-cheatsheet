@@ -74,3 +74,74 @@ Tools simple hote hain, par discipline aur consistency sabse bada weapon hai.
 ---
 
 Kya aap chahte ho main ek **exact “professional-style trading template”** bana dun jisme entry, exit, avoid rules ho (jo aap daily ek SOP ki tarah follow kar sako)?
+
+Bilkul 👌 abhi hum **detailed approach** bana lete hain jo ek *long-term solid intraday options buying system* ke liye base hoga. Ye basically ek **Professional SOP/System** hoga jise consistently follow karna hai:
+
+---
+
+## 📌 Intraday Options Buying System 
+
+### 1. Pre-Market Preparation
+
+* Global cues check → SGX Nifty, Dow/Nasdaq, USDINR, Crude
+* India specific → RBI news, results calendar, events
+* Mark higher TF (daily/weekly) support & resistance zones
+* Note first 15-minute high/low (Intraday reference levels)
+
+---
+
+### 2. Trend Identification
+
+* **VWAP rule** → Above VWAP = bias CALL, Below VWAP = bias PUT
+* **RSI rule** → >60 = bullish, <40 = bearish, 40–60 = avoid zone
+* **Structure** → Higher High–Higher Low = uptrend, Lower High–Lower Low = downtrend
+
+---
+
+### 3. Entry Triggers
+
+* **Support/Resistance Breakout or Retest**
+
+  * Break + volume spike = confirmation
+  * Retest + bullish/bearish candle = safe entry
+* **Candle Confirmation**
+
+  * Big body close above resistance (CALL)
+  * Big body close below support (PUT)
+* **Volume Rule**
+
+  * Spike with move = genuine buyers/sellers
+  * Spike opposite = trap/fake breakout
+
+---
+
+### 4. Avoid Conditions
+
+* RSI stuck 40–60 (no clear direction)
+* Price stuck inside VWAP cloud (sideways)
+* Low volume, narrow candles, wicks only
+* Trading near major news/event (avoid whipsaw)
+
+---
+
+### 5. Risk Management
+
+* Position size fixed per trade (risk <2% capital)
+* SL = Just below support (CALL), just above resistance (PUT)
+* Trailing SL once 1:1 achieved
+* Target = next key level or 1:2 RR minimum
+
+---
+
+### 6. Post-Market Review
+
+* Screenshot every trade (entry + exit reason)
+* Mark if rule followed or broken
+* Track win-rate, RR ratio, emotional mistakes
+* Refine levels & system weekly
+
+---
+
+👉 Isse follow karoge to ek **rule-based intraday system** banega, jo emotional trading ko minimize karega aur long-run sustainable approach banayega.
+
+---
