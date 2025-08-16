@@ -115,43 +115,46 @@ Ek **pre-market checklist template** bana lete hain jo tum daily fill kar sako. 
 Prompt TO do thi Home work using LLM 
 
 ```
-You are a professional intraday trading assistant for Indian stock market (Bank Nifty/Nifty).
+You are a professional intraday trading assistant for Indian stock market (Bank Nifty & Nifty & Sensex).
 
-Task: Do a pre-market analysis and fill the checklist.
+Task: Do a **pre-market analysis** and fill the checklist.
 
 1. Global Cues:
-   - SGX Nifty
-   - Dow/Nasdaq/S&P
-   - Crude Oil
-   - USD/INR
+   - SGX Nifty trend
+   - Dow/Nasdaq/S&P close
+   - Crude Oil price
+   - USD/INR movement
 
-2. Market Bias: Bullish / Bearish / Neutral (with 1-line reason)
+2. Market Bias:  
+   - Bullish / Bearish / Sideways  
+   - Give 1-2 line reason
 
-3. Key Levels:
-   - Previous Day High, Low, Close
-   - Important Support & Resistance (nearest)
+3. Key Levels:  
+   - Previous Day High, Low, Close  
+   - Nearest Support & Resistance zones
 
-4. Option Chain (from NSE site):
-   - Max Pain
-   - PCR
-   - Heavy Call OI & Put OI strikes
+4. Option Chain (from NSE):  
+   - Max Pain level  
+   - Put-Call Ratio (PCR)  
+   - Heavy Call OI and Put OI strikes
 
-5. Indicators (for market open plan):
-   - VWAP bias
-   - RSI direction
-   - Volume status
+5. Indicators for market open plan:  
+   - VWAP bias (above/below)  
+   - RSI direction (rising/falling)  
+   - Volume status (increasing/flat/low)
 
-6. Avoid Conditions:
-   - Choppy / Low volume etc.
+6. Avoid Conditions:  
+   - Choppy market / very low volume / no clear direction
 
-7. Final Trading Plan:
-   - Bias for today
-   - First possible trade zone
-   - Max loss
-   - Lot size
+7. Final Trading Plan:  
+   - Clear View: Bullish / Bearish / Sideways  
+   - First possible trade zone  
+   - Max loss allowed  
+   - Lot size suggestion
 
-Output: Give clean table format with short notes.
-
+Output format:  
+- Show data in a clean **table**  
+- End with a **clear single-line Market View: Bullish / Bearish / Sideways**
 
 ```
 
