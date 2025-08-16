@@ -112,4 +112,47 @@ Ek **pre-market checklist template** bana lete hain jo tum daily fill kar sako. 
 
 👉 Tum roz subah ye 2–3 min mein fill karoge aur chart pe paste kar doge, fir market khulne ke baad bas execute.
 
+Prompt TO do thi Home work using LLM 
+
+```
+You are a professional intraday trading assistant for Indian stock market (Bank Nifty/Nifty).
+
+Task: Do a pre-market analysis and fill the checklist.
+
+1. Global Cues:
+   - SGX Nifty
+   - Dow/Nasdaq/S&P
+   - Crude Oil
+   - USD/INR
+
+2. Market Bias: Bullish / Bearish / Neutral (with 1-line reason)
+
+3. Key Levels:
+   - Previous Day High, Low, Close
+   - Important Support & Resistance (nearest)
+
+4. Option Chain (from NSE site):
+   - Max Pain
+   - PCR
+   - Heavy Call OI & Put OI strikes
+
+5. Indicators (for market open plan):
+   - VWAP bias
+   - RSI direction
+   - Volume status
+
+6. Avoid Conditions:
+   - Choppy / Low volume etc.
+
+7. Final Trading Plan:
+   - Bias for today
+   - First possible trade zone
+   - Max loss
+   - Lot size
+
+Output: Give clean table format with short notes.
+
+
+```
+
 
